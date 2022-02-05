@@ -12,30 +12,345 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Introduction II | &nbsp; |
-| 3 | Project organization and contracts | &nbsp; |
-| 4 | Construction finance | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Working the globe  {{< br >}}Guest lecture: Fred Berger {{< br >}}{{< br >}} Privatization {{< br >}}{{< br >}}  | &nbsp; |
-| 6 | Public-private partnerships in financing of infrastructure | Assignment 1 due |
-| 7 | Private finance initiative | &nbsp; |
-| 8 | Project finance | &nbsp; |
-| 9 | How to get involved in private finance | Term project proposal due |
-| 10 | Case studies I | &nbsp; |
-| 11 | Case studies II | Assignment 2 due |
-| 12 | Risk analysis | &nbsp; |
-| 13 | Risk management | &nbsp; |
-| 14 | Project financial evaluation  {{< br >}}Guest lecture: Massood Samii, Southern New Hampshire University | &nbsp; |
-| 15 | Cost benefit analysis  {{< br >}}Guest lecture: Massood Samii, Southern New Hampshire University | Assignment 3 case selection due |
-| 16 | Guest lecture: Massood Samii, Southern New Hampshire University | &nbsp; |
-| 17 |  {{< br >}}{{< br >}} Capital program management  {{< br >}}Guest lecture: Chris Gordon, Harvard University {{< br >}}{{< br >}} Construction site visit {{< br >}}{{< br >}}  | &nbsp; |
-| 18 | Project organization I | &nbsp; |
-| 19 | The World of Skanksa and The Road Ahead  {{< br >}}Guest lecture: Jim Becker, Skansa AB | &nbsp; |
-| 20 | Project organization II | Assignment 3 due |
-| 21 | Project control | &nbsp; |
-| 22 | Project management engineering, procurement and construction | &nbsp; |
-| 23 | Identifying and covering risks—current trends | &nbsp; |
-| 24 |  {{< br >}}{{< br >}} Masdar City: Zero Carbon, Zero Waste: 'Someday is Today'  {{< br >}}Guest lecture: Khaled Awad {{< br >}}{{< br >}} Project uncertainty management {{< br >}}{{< br >}}  | Term project report due |
-| 25 | Term project presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Project organization and contracts
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Construction finance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Working the globe  
+Guest lecture: Fred Berger
+
+Privatization
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Public-private partnerships in financing of infrastructure
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Private finance initiative
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Project finance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+How to get involved in private finance
+{{< tdclose >}}
+{{< tdopen >}}
+Term project proposal due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Case studies I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Case studies II
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Risk analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Risk management
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Project financial evaluation  
+Guest lecture: Massood Samii, Southern New Hampshire University
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Cost benefit analysis  
+Guest lecture: Massood Samii, Southern New Hampshire University
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 case selection due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture: Massood Samii, Southern New Hampshire University
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Capital program management  
+Guest lecture: Chris Gordon, Harvard University
+
+Construction site visit
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Project organization I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+The World of Skanksa and The Road Ahead  
+Guest lecture: Jim Becker, Skansa AB
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Project organization II
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Project control
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Project management engineering, procurement and construction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Identifying and covering risks—current trends
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Masdar City: Zero Carbon, Zero Waste: 'Someday is Today'  
+Guest lecture: Khaled Awad
+
+Project uncertainty management
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Term project report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Term project presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
