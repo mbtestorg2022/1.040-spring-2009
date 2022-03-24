@@ -85,7 +85,7 @@ Turn in a short paper (roughly 5-10 pages) with regard to your analysis and comp
 
 {{< tdclose >}}
 {{< tdopen >}}
-AECOM Consult Team. "Case Studies of Transportation Public-Private Partnerships in the United States." Federal Highway Administration Report. July 7, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF ‑ 7.1MB](https://www.fhwa.dot.gov/ipd/pdfs/p3/us_ppp_case_studies_final_report_7-7-07.pdf))
+AECOM Consult Team. "Case Studies of Transportation Public-Private Partnerships in the United States." Federal Highway Administration Report. July 7, 2007. ([PDF ‑ 7.1MB](https://www.fhwa.dot.gov/ipd/pdfs/p3/us_ppp_case_studies_final_report_7-7-07.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 
